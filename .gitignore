@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+7.1.Introduction to MCP deployment.md
+7.2.Create and package an MCP Server.md
+7.3.Deploy MCP Server to package manager like Git.md
